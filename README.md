@@ -10,11 +10,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gustavo-lucena-4a11b3214/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gustavo-lucena-4a11b3214/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/gustavolucen4/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/gustavolucen4/#gh-dark-mode-only)
+📸 [Instagram](https://www.instagram.com/gustavolucen4/) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/gustavo-lucena-4a11b3214/) <br>
 
 
 <br />
