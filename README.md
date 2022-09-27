@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-📸 [Instagram](https://www.instagram.com/gustavolucen4/) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/gustavo-lucena-4a11b3214/) <br>
+📸 [Instagram](https://www.instagram.com/gustavolucen4/)
+💼 [LinkedIn](https://www.linkedin.com/in/gustavo-lucena-4a11b3214/)
 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavolucen4&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolucen4&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
