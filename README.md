@@ -14,5 +14,5 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolucen4&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolucen4&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
