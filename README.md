@@ -1,6 +1,6 @@
 # Hi there, I'm Gustavo Lucena 👋 
 
-- 🇧🇷  Born and living in Caruaru, Brazil .
+- 🇧🇷  Born and living in Caruaru, Brazil.
 - 🎓 I'm a Computer science student and Developer!!
 - 🌱 I’m currently learning backend, tests and databases !
 - 👯 I’m looking to collaborate with others.
