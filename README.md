@@ -4,7 +4,7 @@
 - 🎓 I'm a Computer science student and Developer!!
 - 🌱 I’m currently learning backend, tests and databases !
 - 👯 I’m looking to collaborate with others.
-- 🥅 2022 Goals: Learn more about fullstack and Personal finances.
+- 🥅 2023 Goals: Learn more about fullstack and Personal finances.
 - ⚡ Fun fact: I love play basketball and read some books.
 
 ### Connect with me:
